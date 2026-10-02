@@ -39,3 +39,10 @@ The analysis workflow included:
 - Total detected variants: 380
 - SNPs: 378
 - Indels: 2
+
+## Project Files
+
+- [Alignment statistics](alignment_stats.pdf)
+- [Readable variant table](readable_variants_ERR008118.pdf)
+- [Full variant output](final_variants_ERR008118.pdf)
+- [Analysis pipeline](pipeline.sh)
